@@ -1,8 +1,9 @@
-name: zone-gpt
+# conda environment configuration
+
+name: myenv
 channels:
-  - conda-forge
+  - defaults
 dependencies:
-  - python=3.11
-  - pip
-  - pip:
-      - -r requirements.txt
+  - python=3.8
+  - numpy
+  - pandas
