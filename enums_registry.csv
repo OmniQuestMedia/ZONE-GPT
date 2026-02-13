@@ -1,0 +1,6 @@
+enum_name,enum_value,description,status,effective_from,effective_to
+viewer_age_status,NOT_CHECKED,Viewer has not completed age assurance,ACTIVE,2026-02-12,
+viewer_age_status,PASSED,Viewer passed age assurance,ACTIVE,2026-02-12,
+performer_verification_status,VERIFIED,Performer identity verified and eligible,ACTIVE,2026-02-12,
+takedown_status_ncii,IMMEDIATE_SUPPRESSION_APPLIED,Provisional suppression applied while under review,ACTIVE,2026-02-12,
+auth_level,STEP_UP,Action required step-up authentication,ACTIVE,2026-02-12,

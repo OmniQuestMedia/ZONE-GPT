@@ -1,0 +1,5 @@
+country,region,required_age_threshold,required_assurance_level,strict_mode,effective_from,effective_to,policy_version
+CA,ON,18,AA_VENDOR_TOKEN,true,2026-02-12,,v1
+CA,,18,AA_VENDOR_TOKEN,false,2026-02-12,,v1
+US,CA,18,AA_VENDOR_TOKEN,true,2026-02-12,,v1
+US,,18,AA_VENDOR_TOKEN,false,2026-02-12,,v1

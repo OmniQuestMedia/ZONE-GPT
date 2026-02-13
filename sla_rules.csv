@@ -1,0 +1,5 @@
+severity,first_response_minutes,resolution_minutes,exec_notify_minutes,effective_from,effective_to
+S1,1440,4320,,2026-02-12,
+S2,720,2880,,2026-02-12,
+S3,60,1440,,2026-02-12,
+S4,0,0,15,2026-02-12,

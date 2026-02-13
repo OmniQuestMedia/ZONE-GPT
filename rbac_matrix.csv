@@ -1,0 +1,6 @@
+role,permission,scope,action_type,endpoint,requires_step_up,requires_reason_code
+COMPLIANCE,EXPORT_AUDIT_PACK,audit:export,EXPORT,/audit/export,true,true
+MODERATOR,APPLY_MODERATION_ACTION,moderation:write,ACTION,/moderation/action,true,true
+ADMIN,TOGGLE_KILL_SWITCH,platform:kill_switch,TOGGLE,/admin/kill-switch,true,true
+SUPPORT,VIEW_INCIDENT,usop:read,READ,/usop/incidents,false,false
+PERFORMER,TRIGGER_EMERGENCY_BUTTON,stream:emergency,TRIGGER,/stream/emergency,true,true
