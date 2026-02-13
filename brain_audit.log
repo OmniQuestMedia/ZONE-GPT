@@ -1,0 +1,1 @@
+2026-02-13 01:43:51,443 - INFO - EVENT: dataset.ingest | DETAILS: {"filename": "test_products.csv", "size": 47, "checksum": "993fcc8a150ab4eb00a5a578d91234683f9a7307efb462a9a7a87ec0cfa0d392", "path": "/tmp/datasets/test_products/v1.csv"}
